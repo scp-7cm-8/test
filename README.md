@@ -1,5 +1,5 @@
 # test
 school project - simply a git hub test
-project mebers:
+project members:
 Sebastian Kroaptschek
 
